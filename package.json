@@ -1,0 +1,19 @@
+{
+  "name": "emp_mgmt_web_client",
+  "version": "1.0.0",
+  "description": "Employee management System (Web Client)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "client",
+    "html"
+  ],
+  "author": "adhikaris304@gmal.com\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ci\u001b[C\u001b[Dl.com\u001b[D",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
